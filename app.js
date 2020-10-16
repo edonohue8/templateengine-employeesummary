@@ -55,12 +55,12 @@ async function start() {
             },
             {
                 type: "input",
-                message: `What is the employee (${i})'s id?`,
+                message: `What is employee (${i})'s id?`,
                 name: "id"
             },
             {
                 type: "input",
-                message: `What is the employee (${i})'s e-mail?`,
+                message: `What is employee (${i})'s e-mail?`,
                 name: "email"
             },
             {
