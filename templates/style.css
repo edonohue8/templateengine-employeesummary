@@ -1,0 +1,6 @@
+/* Styling for entire page */
+
+html,body {
+    font-family: Verdana, sans-serif;
+    height: 100%;
+}
